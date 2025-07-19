@@ -1,5 +1,5 @@
-Flask
-Flask-SQLAlchemy
-Flask-APScheduler
-gunicorn
-flask_login
+Flask==2.3.3
+Flask-SQLAlchemy==3.1.1
+Flask-APScheduler==1.13.1
+python-dotenv==1.0.1
+gunicorn==21.2.0
