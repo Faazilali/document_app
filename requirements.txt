@@ -2,3 +2,4 @@ Flask
 Flask-SQLAlchemy
 Flask-APScheduler
 gunicorn
+flask_login
